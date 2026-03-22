@@ -16,8 +16,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
  * - Concurrency handling using optimistic locking
  * - Discount engine using Strategy Pattern
  * - Transaction management for booking flow
- * 
- * @author Senior Backend Engineer
+ *
  * @version 1.0.0
  */
 @SpringBootApplication
